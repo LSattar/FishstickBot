@@ -1,0 +1,2 @@
+# FishstickBot
+ Discord bot
