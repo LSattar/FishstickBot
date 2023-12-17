@@ -1,0 +1,16 @@
+{
+  "name": "fishstick-bot",
+  "version": "1.0.0",
+  "description": "Fishstick will let you know when it's closing time",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leah",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "node-cron": "^3.0.0"
+  }
+}
